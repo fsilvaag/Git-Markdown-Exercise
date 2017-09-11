@@ -1,3 +1,13 @@
+
+<<<<<<< HEAD
+
+Exercise of Markdown and remote repositories. I could not be able to open it in a markdown program and edit.
+The program Remarkable is no available for windows according to the webpage. 
+
+Since Remarkable is not available for windows, I found a program in the windows store called MArkpad.
+
+
+=======
 # EEOB/BCB 546X Git/Markdown Exercise
 
 This exercise will take you through the process of using Git and Markdown. For this, you will first create a GitHub account. Once you have done that, you will 'fork' this repository to your account. Then you can clone your version of the repository to the class cluster (or your own machine) and then follow the instructions for working with Markdown. Once you have completed the Markdown file, you will push the changes to your repository.
@@ -130,3 +140,4 @@ Your changes to the repository will not be incorporated into the original reposi
 
 
 Git! Git! Hooray!
+>>>>>>> 5a8e021d4e5d505c4391a08a451649d0fd030c07
