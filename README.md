@@ -1,6 +1,12 @@
+
 <<<<<<< HEAD
+
 Exercise of Markdown and remote repositories. I could not be able to open it in a markdown program and edit.
-The program Remarkable is no available for windows according to the webpage.
+The program Remarkable is no available for windows according to the webpage. 
+
+Since Remarkable is not available for windows, I found a program in the windows store called MArkpad.
+
+
 =======
 # EEOB/BCB 546X Git/Markdown Exercise
 
